@@ -1,5 +1,6 @@
 ### Hello there 👋
 
+- 🌱 Actualmente estudio todo lo relacionado a unity y planeo a futuro el desarrollo de mi propio videojuego movil.  
 <!--
 **nicolas2589/nicolas2589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
